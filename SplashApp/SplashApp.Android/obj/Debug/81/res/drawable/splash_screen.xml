@@ -1,0 +1,22 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><color android:color="@color/splash_background" /></item><item><bitmap android:src="@drawable/splash_logo" android:tileMode="disabled" android:gravity="center" /></item></layer-list><!-- Code to implement into Activity:
+
+Android.Widget.SearchView searchView;
+public override bool OnCreateOptionsMenu(IMenu menu)
+{
+  this.MenuInflater.Inflate(Resource.Menu.splash_screen, menu);
+
+  var searchItem = menu.FindItem(Resource.Id.action_search);
+
+  searchView = searchItem.ActionProvider.JavaCast<Android.Widget.SearchView>();
+
+  searchView.QueryTextSubmit += (sender, args) =>
+  {
+    Toast.MakeText(this, "You searched: " + args.Query, ToastLength.Short).Show();
+
+  };
+
+
+  return base.OnCreateOptionsMenu(menu);
+}
+
+-->

@@ -1,0 +1,12 @@
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\bin\Debug\netstandard2.0\SplashApp.deps.json
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\bin\Debug\netstandard2.0\SplashApp.dll
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\bin\Debug\netstandard2.0\SplashApp.pdb
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.csprojAssemblyReference.cache
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.AssemblyInfoInputs.cache
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.AssemblyInfo.cs
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.dll
+C:\PROGRAMMING\Belajar Mobile\SplashApp\SplashApp\SplashApp\obj\Debug\netstandard2.0\SplashApp.pdb
